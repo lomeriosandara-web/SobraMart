@@ -1,0 +1,6 @@
+{
+  "name": "SobraMart - Surplus Construction Materials Marketplace",
+  "description": "Online marketplace connecting sellers and buyers of surplus construction materials. Don't let it pile up. Put your surplus up for sale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
